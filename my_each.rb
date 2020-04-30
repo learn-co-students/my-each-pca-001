@@ -4,5 +4,7 @@ def my_each arr
     yield arr[i]
     i += 1
   end
+
   arr
+  
 end
